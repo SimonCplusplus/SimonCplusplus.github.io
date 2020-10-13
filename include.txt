@@ -3,7 +3,7 @@ Include the following:
 -2 lists (one numbered, 1 itemized)
 -animation
 -images (+ caption)
--page redirection (move from first to second page and back[microsoft scam page])
+-page redirection (move from first to second page and back)
 -hyperlinks (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 -paragraphs
 -...
